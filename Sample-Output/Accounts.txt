@@ -1,0 +1,32 @@
+{
+  "461": {
+    "AccountID": "8218f899-b93c-4abe-8af7-f31c29713fc5",
+    "Code": "461",
+    "Name": "Printing & Stationery",
+    "Type": 7,
+    "TaxType": "INPUT",
+    "Description": "Expenses incurred by the entity as a result of printing and stationery",
+    "Class": 2,
+    "EnablePaymentsToAccount": false,
+    "ShowInExpenseClaims": true,
+    "ReportingCode": "EXP",
+    "ReportingCodeName": "Expense",
+    "HasAttachments": false,
+    "UpdatedDateUTC": "2018-08-20T06:06:17.62-07:00"
+  },
+  "489": {
+    "AccountID": "c0454178-7d90-41aa-afce-1c48b4a5df35",
+    "Code": "489",
+    "Name": "Telephone & Internet",
+    "Type": 7,
+    "TaxType": "INPUT",
+    "Description": "Expenditure incurred from any business-related phone calls, phone lines, or internet connections",
+    "Class": 2,
+    "EnablePaymentsToAccount": false,
+    "ShowInExpenseClaims": true,
+    "ReportingCode": "EXP",
+    "ReportingCodeName": "Expense",
+    "HasAttachments": false,
+    "UpdatedDateUTC": "2018-08-20T06:06:17.62-07:00"
+  }
+}

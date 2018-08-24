@@ -1,0 +1,18 @@
+{
+  "ba22c555-9b49-455f-867e-014db37d9e42": {
+    "ContactID": "ba22c555-9b49-455f-867e-014db37d9e42",
+    "Name": "Computer Vendor",
+    "ContactPersons": [],
+    "Addresses": [],
+    "Phones": [],
+    "ContactGroups": []
+  },
+  "2a1804aa-3e35-4a17-b583-5a92305b4c83": {
+    "ContactID": "2a1804aa-3e35-4a17-b583-5a92305b4c83",
+    "Name": "Telephone Provider",
+    "ContactPersons": [],
+    "Addresses": [],
+    "Phones": [],
+    "ContactGroups": []
+  }
+}
